@@ -2,7 +2,7 @@ Designed and implemented a multi-location, inter-networking strategy for a small
 organization currently has 5 locations. Corporate headquarters is located in Boston and Mumbai. The
 company is placed at 3 other locations, which are New York, Mumbai, London and Beijing.
 • Every office has 250 employees with 85% of redundancy (For IP addresses). As 85% redundancy was required, each company was allocated a /24 ip address with VLSM Technique
-• Subnet the 193.168.84.0/19 to distribute the IPs to all locations.
+• Subnet the 193.168.84.0/19 to distribute the IPs to all locations.\n
 • Boston and Mumbai offices have Finance, HR and Technical departments.
 • Other offices have HR and Technical departments.
 • All the IP addresses inside departments assigned by DHCP server.
