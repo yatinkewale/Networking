@@ -4,4 +4,6 @@ Automates calculations of various problems received and reply to the server. \
 Obtains a unique flag after successfully computing all the problems.\
 \
 Give the command below to run the server:\
-java -jar PythonProject.jar project.py 
+java -jar PythonProject.jar project.py \
+\
+JRE 1.8 is required.
