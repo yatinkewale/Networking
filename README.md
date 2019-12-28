@@ -1,2 +1,2 @@
-# ykprojects
-Repository for projects and other work
+# Networking
+Repository for networking projects and other work
