@@ -1,3 +1,5 @@
+# Client-Server Communication
+
 A TCP client to communicate with the server using Python.\
 Sets up TCP connection with the server.\
 Automates calculations of various problems received and reply to the server. \
